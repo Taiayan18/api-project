@@ -1,0 +1,285 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    user-select: none;
+    background-color: rgb(232, 230, 230);
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    height: 70px;
+    width: 100%;
+    background-color: white;
+    align-items: center;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+#menuList {
+    display: flex;
+    list-style-type: none;
+    gap: 30px;
+    align-items: center;
+
+    a {
+        color: black;
+        text-decoration: none;
+        font-size: 20px;
+    }
+
+    a:hover {
+        color: antiquewhite;
+    }
+}
+
+
+.logoname {
+    font-size: 35px;
+}
+
+.menu-icone {
+    border: 2px solid black;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.back-img {
+    
+    height: 50vh;
+    width: 100%;
+    display: flex;
+    gap: 40px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-image: url(https://static.wixstatic.com/media/2093ff_7d7ac973ca34478a928b91724b4acbbe~mv2.png/v1/fill/w_2048,h_712,al_c,q_90,enc_avif,quality_auto/test.png);
+}
+
+
+.back-img h1 {
+    font-size: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.d-flex {
+    display: flex;
+    gap: 5px;
+}
+
+.input {
+    width: 600px;
+
+    input {
+        width: 100%;
+        height: 50px;
+        padding-left: 20px;
+        font-size: 1.5rem;
+        outline: none;
+        border: 1px solid black;
+        border-radius: 5px;
+    }
+}
+
+.button button {
+    width: 100px;
+    height: 50px;
+    border-radius: 5px;
+    background-color: rgb(133, 96, 66);
+    color: white;
+    font-size: 1.5rem;
+    border: none;
+}
+
+
+.back-img h2 {
+    font-size: 28px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#result{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 20px;
+    gap: 20px;
+    text-align:center;
+
+}
+
+
+#result img{
+    width:100%;
+    height: 230px;
+    margin: auto;
+    padding: 15px;
+    object-fit: cover;
+
+  
+    
+}
+
+
+#error{
+    text-align: center;
+    font-size: 1.6rem;
+    color: red;
+    margin-top: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 900;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media(max-width:950px) {
+    header {
+        padding-left: 50px;
+        padding-right: 50px;
+    }
+
+    .logoname {
+        font-size: 25px;
+    }
+
+    #menuList a {
+        font-size: 15px;
+    }
+    .back-img h1{
+        font-size: 50px;
+    }
+    .input{
+        width: 450px;
+    }
+    .back-img h2{
+        font-size: 25px;
+    }
+}
+
+@media(max-width:600px) {
+    header {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .logoname {
+        font-size: 20px;
+    }
+
+    #menuList a {
+        font-size: 12px;
+    }
+    .back-img h1{
+        font-size: 40px;
+    }
+    .input{
+        width: 320px;
+    }
+    .back-img h2{
+        font-size: 22px;
+    }
+    .back-img{
+        gap: 20px;
+        height: 50vh;
+    }
+}
+
+
+
+@media(min-width:450px) {
+    .menu-icone {
+        display: none;
+    }
+
+}
+
+@media(max-width:450px) {
+    #menuList {
+        position: absolute;
+        background-color: red;
+        display: none;
+        top: 70px;
+        width: 100%;
+        left: 0;
+        text-align: center;
+
+        li {
+            padding-top: 10px;
+            padding-bottom: 10px;
+        }
+    }
+    .back-img h1{
+        font-size: 30px;
+    }
+    .input{
+        width: 250px;
+    }
+    .back-img h2{
+        font-size: 18px;
+    }
+}
+
+@media(max-width:380px){
+    .back-img h1{
+        font-size: 25px;
+    }
+    .input{
+        width: 200px;
+
+        input{
+            height: 40px;
+            font-size: 1rem;
+        }
+    }
+    .button button{
+        height: 40px;
+        font-size: 1rem;
+    }
+    .back-img h2{
+        font-size: 15px;
+    }
+}
+
+
+@media(max-width:310px){
+    .d-flex{
+        flex-direction: column;
+        align-items: center;
+        
+    }
+}

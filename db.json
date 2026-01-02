@@ -1,0 +1,207 @@
+{
+  "users": [],
+  "products": [],
+  "food": [
+    {
+        
+      "id": 1,
+      "name": "Burger",
+      "category": "Fast Food",
+      "image": "https://b.zmtcdn.com/data/pictures/0/21841640/61c04cf246b85694a5e1337fcba43b32_o2_featured_v2.jpg"
+       
+    },
+    {
+      "id": 2,
+      "name": "Burger",
+      "category": "Fast Food",
+       "image": "https://b.zmtcdn.com/data/pictures/1/22267511/d11494bbc9e19eb148435a9ba20ee7ce_o2_featured_v2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Burger",
+      "category": "Fast Food",
+       "image": "https://b.zmtcdn.com/data/pictures/0/21859530/6bee3be6c1c62416d7e6b18c94a306a3_o2_featured_v2.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Burger",
+      "category": "Fast Food",
+       "image": "https://b.zmtcdn.com/data/dish_photos/30f/c90c5cd8f61a25140f977042c397d30f.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Burger",
+      "category": "Fast Food",
+       "image": "https://b.zmtcdn.com/data/pictures/6/21392026/87e5000a2f6c771d1c5ddda574aea1de_o2_featured_v2.jpg"
+    },{
+      "id": 6,
+      "name": "Burger",
+      "category": "Fast Food",
+       "image": "https://b.zmtcdn.com/data/dish_photos/346/cf1422eabfe0aab416528b1bb1fa7346.jpg"
+    },
+    
+     {
+      "id": 1,
+      "name": "Pizza",
+      "category": "Fast Food",
+      "image":"https://b.zmtcdn.com/data/pictures/9/20636829/e83252f063c22b7a880374053e8840dd_o2_featured_v2.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Pizza",
+      "category": "Fast Food",
+      "image":"https://b.zmtcdn.com/data/pictures/8/21459018/32fd4c8fb5cb4f5ee1c0055cff21e7fe_o2_featured_v2.jpg"
+
+    },
+    {
+      "id": 3,
+      "name": "Pizza",
+      "category": "Fast Food",
+      "image":"https://b.zmtcdn.com/data/dish_photos/f5e/8d61ae065379d20cb10fc198c81e5f5e.jpg"
+
+    },
+    {
+      "id": 4,
+      "name": "Pizza",
+      "category": "Fast Food",
+      "image":"https://b.zmtcdn.com/data/pictures/1/20236091/b0e15034b44348158bcbafb0f815e281_featured_v2.jpg"
+
+    },
+    {
+      "id": 5,
+      "name": "Pizza",
+      "category": "Fast Food",
+      "image":"https://b.zmtcdn.com/data/pictures/8/20280288/893716348a345a07744a7ff3278d50d3_o2_featured_v2.jpg"
+
+    },
+    {
+      "id": 6,
+      "name": "Pizza",
+      "category": "Fast Food",
+      "image":"https://b.zmtcdn.com/data/pictures/9/21363259/18112772a92b7ad94eeca93b790853fe_featured_v2.jpg"
+
+    },
+    {
+      "id": 7,
+      "name": "Pizza",
+      "category": "Fast Food",
+      "image":"https://b.zmtcdn.com/data/dish_photos/791/1b486b484529119b1594e320a79a5791.png"
+
+    },
+    {
+      "id": 8,
+      "name": "Pizza",
+      "category": "Fast Food",
+      "image":"https://b.zmtcdn.com/data/dish_photos/acf/564a923f18d91e366c1eddaa4374aacf.jpg"
+
+    },
+     {
+      "id": 1,
+      "name": "pasta",
+      "category": "Fast Food",
+      "image":"https://b.zmtcdn.com/data/dish_photos/759/c3254a4e4fde5fbf0135f90c2f73a759.jpg"
+
+    }
+    ,
+     {
+      "id": 2,
+      "name": "pasta",
+      "category": "Fast Food",
+      "image":"https://b.zmtcdn.com/data/dish_photos/15e/48f0d23a636bacdec8d9d6eb18a6b15e.jpg"
+
+    }
+    ,
+     {
+      "id": 3,
+      "name": "pasta",
+      "category": "Fast Food",
+      "image":"https://b.zmtcdn.com/data/dish_photos/eed/53e4c511d7c9cb599a7e581da2d3feed.jpeg"
+
+    }
+    ,
+     {
+      "id": 4,
+      "name": "pasta",
+      "category": "Fast Food",
+      "image":"https://b.zmtcdn.com/data/dish_photos/13b/182f363d6cda350606407310ea2e413b.jpg"
+
+    },
+     {
+      "id": 1,
+      "name": "biryani",
+      "category": "Fast Food",
+      "image":"https://b.zmtcdn.com/data/pictures/4/21625904/eb66a22f2c4537e2ea27179492eb8991_o2_featured_v2.jpg"
+
+    }
+    ,
+     {
+      "id": 2,
+      "name": "biryani",
+      "category": "Fast Food",
+      "image":"https://b.zmtcdn.com/data/pictures/3/19268583/01c361be49104bfce556f3360879c13a_o2_featured_v2.jpg"
+
+    }
+    ,
+     {
+      "id": 3,
+      "name": "biryani",
+      "category": "Fast Food",
+      "image":"https://b.zmtcdn.com/data/pictures/2/21848072/b1af7b260ea273102500f39edd1cd8c2_o2_featured_v2.jpg"
+
+    }
+    ,
+     {
+      "id": 4,
+      "name": "biryani",
+      "category": "Fast Food",
+      "image":"https://b.zmtcdn.com/data/dish_photos/94f/eef37240c6c959928a3893a49d5d594f.png"
+
+    },
+     {
+      "id": 1,
+      "name": "chikken",
+      "category": "Fast Food",
+      "image":"https://b.zmtcdn.com/data/pictures/0/19425690/7d50fe23fdd3f6f990e1b70bdcfe919a_o2_featured_v2.jpg"
+
+    }
+    ,
+     {
+      "id": 2,
+      "name": "chikken",
+      "category": "Fast Food",
+      "image":"https://b.zmtcdn.com/data/dish_photos/17d/c92c262ba239ea75835d91eecd2a017d.jpg"
+
+    }
+    ,
+     {
+      "id": 3,
+      "name": "chikken",
+      "category": "Fast Food",
+      "image":"https://b.zmtcdn.com/data/dish_photos/c26/fd99833e988eb1318d1b1e4bd5baec26.jpg"
+
+    }
+    ,
+     {
+      "id": 4,
+      "name": "chikken",
+      "category": "Fast Food",
+      "image":"https://b.zmtcdn.com/data/dish_photos/495/aa20b07bbb0c4d25ed3ef776b7ae3495.png"
+
+    }
+     ,
+     {
+      "id": 5,
+      "name": "chikken",
+      "category": "Fast Food",
+      "image":"https://b.zmtcdn.com/data/pictures/6/18555696/10218731728f6b553d22cc72c02e239c_o2_featured_v2.jpg"
+
+    } ,
+     {
+      "id": 6,
+      "name": "chikken",
+      "category": "Fast Food",
+      "image":"https://b.zmtcdn.com/data/pictures/5/21252215/8f38d532b2f222db150bf87760dde36f_o2_featured_v2.jpg"
+
+    }
+  ]
+}
