@@ -17,7 +17,8 @@ document.addEventListener("DOMContentLoaded", () => {
 
     const url = `http://localhost:3000/food`;
 
-    fetch(url)
+    fetch("https://api-project-red-kappa.vercel.app/recipes?pasta")
+
       .then((response) => response.json())
       .then((data) => {
     
